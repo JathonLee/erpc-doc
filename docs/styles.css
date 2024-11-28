@@ -1,0 +1,47 @@
+.info-box {
+    background-color: #f9f9f9;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.highlight-box {
+    background-color: #e0f7fa;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.icon-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.icon-list li {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.list-icon {
+    margin-right: 10px;
+    font-size: 1.2em;
+}
+
+.keyword {
+    font-weight: bold;
+    color: hsl(0, 65%, 51%); /* Red */
+}
+
+.keyword-blue {
+    font-weight: bold;
+    color: #1976d2; /* Blue */
+}
+
+.keyword-green {
+    font-weight: bold;
+    color: #388e3c; /* Green */
+}
+
+.keyword-orange {
+    font-weight: bold;
+    color: #f57c00; /* Orange */
+}
