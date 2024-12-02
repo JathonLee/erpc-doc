@@ -8,13 +8,11 @@ const config: Config = {
   tagline: 'Go语言轻量级开发框架',
   favicon: 'img/favicon.ico',
 
-
-
   // Set the production url of your site here
   url: 'https://your-docusaurus-site.example.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/erpc-doc/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
